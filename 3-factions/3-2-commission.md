@@ -1,7 +1,5 @@
 ## The Commission
 
-The Commission for the Research of Offshore Worlds, affectionately called Crows, was founded by *Glimback Toestubber* in 899 PO. Originally known as the Explorer's Guild, Crows has since secured government funding and its members now work to prospect new earthmotes for colonization.
-
 ### Join the Commission
 
 1. Join an expedition as an intern and help establish a base camp on an uncharted earthmote.
@@ -30,8 +28,6 @@ Member of the Commission, author of Barty's Guide to Caelum's Landing
 ---
 
 ## Order of the Lantern
-
-Blood Hunters who undergo a ritual that allows them to navigate the miasma.
 
 ### Notable Members
 

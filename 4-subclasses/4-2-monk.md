@@ -18,7 +18,7 @@ At 3rd level, a monk gains the Monastic Tradition feature, which offers you the 
 
 ### Way of the Spirit Temple
 
-Monks of the Way of the Spirit Temple seek a deep connection to nature through the study of wild beasts and their associated elements. It is this connection that allows a group of these monks to terraform new lands and arrest dangerous rogue earthmotes and send them back into the [Miasma]().
+Monks of the Way of the Spirit Temple seek a deep connection to nature through the study of wild beasts and their associated elements. It is this connection that allows a group of monks to terraform new lands and arrest dangerous rogue earthmotes and send them back into the [Miasma]().
 
 ### Spirit Guardian
 

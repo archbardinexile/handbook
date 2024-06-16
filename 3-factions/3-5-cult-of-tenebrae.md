@@ -1,7 +1,5 @@
 ## The Cult of Tenebrae
 
-The Cult of Tenebrae work in the shadows to expose the hypocrisy of the Church of Caelum. They claim the Miasma was released 1,000 years ago as a result of Caelum's ritual to expel the darkness within him in order to ascend to godhood. Mundi Eversor was created by Tenebrae and his followers to stop him.
-
 ### Join the Cult of Tenebrae
 
 1. Publicly criticize the Church by joining a protest to make yourself known to the Cult.
