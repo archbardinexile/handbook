@@ -1,17 +1,3 @@
-## Mining Consortium
-
-### Notable Members
-
-#### Havat Eilistre
-
-Governor of Micantrum.
-
----
-
-# Bounty Hunters Union
-
----
-
 ## Confederacy of Privateers
 
 - Zippers
@@ -29,17 +15,3 @@ Governor of Micantrum.
 #### Bhaldrom Anchorheart
 
 Seafaring mercenary in service to Umberlee.
-
----
-
-## Merchants Guild
-
-### Notable Members
-
-#### Hashim Al-Hashim
-
-Governor of Arx
-
-#### Majdi
-
-Portly elf merchant drunken master travels in airship caravan

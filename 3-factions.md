@@ -14,8 +14,10 @@ The world of Fio holds many opportunities for budding adventurers. Join one of i
 
 - [**The Cult of Tenebrae**](3-factions/3-5-cult-of-tenebrae.md) work in the shadows to expose the hypocrisy of the Church of Caelum. They claim the Miasma was released 1,000 years ago as a result of Caelum's ritual to expel the darkness within him so that he might to ascend to divinity. They also claim Mundi Eversor was created by Tenebrae and his followers in order to stop Caelum.
 
-- [**League of Archfiends**](3-factions/3-6-league-of-archfiends.md)
+- [**The League of Archfiends**](3-factions/3-6-league-of-archfiends.md) is said to be a secret cabal of fiends who operate from within the Miasma, subsidising illegal practices across the Relief that will bring them luxury in their empire beyond the barrier. It is rumoured they even conspired with Tenebrae to create Mundi Eversor 1,000 years ago, but it has never been proven the organisation exists or ever existed.
 
-- [**Other factions**](3-factions/3-7-other-factions.md)
+- [**The Confederacy of Privateers**](3-factions/3-7-confederacy-of-privateers.md)
 
-- [**Other characters**](3-factions/3-8-other-characters.md)
+[**Other factions**](3-factions/3-7-other-factions.md) that can be found across the Relief include: the [Mining Consortium](3-factions/3-8-other-factions.md#mining-consortium), an organisation that regulates the trade of resonite and other minerals to and from [Micantrum](1-world/1-1-profundus.md#the-outermotes); the [Bounty Hunters Codex](3-factions/3-8-other-factions.md#bounty-hunters-codex), a code of honour that binds all hunters, hunter parties and lodges to prevent infighting and ensure business remains profitable; and the [Merchants Guild](3-factions/3-8-other-factions.md), a union of tradespeople operating out of [Arx](1-world/1-4-calidus.md#arx) that sponsor and protect independent merchants across the Relief.
+
+You may encounter [**other characters**](3-factions/3-8-other-characters.md)
