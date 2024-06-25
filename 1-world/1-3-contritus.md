@@ -2,7 +2,7 @@
 
 ## The Manyshells
 
-This archipelago of diminutive isles spans most of the eastern Altum Ocean, reaching even beyond the Miasma. The isles range from ten square miles to as little as one square mile across, broken by exponentially branching rivers of sparkling aquamarine. With no singular form of government, the Manyshells have become a reliable refuge for pirates, cultists, adrenaline junkies and other counter cultures. The largest of the isles, *Raptor island*, hosts the shanty city of *Anchora*, surreptitiously ruled by the [Confederacy of Privateers](); a union of pirates and merchants ruled by those with the largest fleets or the greatest wealth.
+This archipelago of diminutive isles spans most of the eastern Altum Ocean, reaching even beyond the Miasma. The isles range from ten square miles to as little as one square mile across, broken by exponentially branching rivers of sparkling aquamarine. With no singular form of government, the Manyshells have become a reliable refuge for pirates, cultists, adrenaline junkies and other counter cultures. The largest of the isles, *Raptor Island*, hosts the shanty city of *Anchora*, surreptitiously ruled by the [Confederacy of Privateers](); a loose alliance of pirates, privateers and merchant crews governed by those with the largest fleets and the greatest wealth.
 
 ## Mallia
 
