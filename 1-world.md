@@ -39,7 +39,7 @@ There are 12 months in one year. Each month is 24 days long, divided into four s
 | Tabernacula   | Winter | Winter Solstice (3rd year)   |
 | Niveus        | Winter | First Life (4th)             |
 | Roscidas      | Winter |                              |
-| Inceptum      | Spring |                              |
+| Inceptum      | Spring | Guilds Exhibition (12th)     |
 | Flavum        | Spring |                              |
 | Ascendentem   | Spring | Caelum's Day (24th)          |
 

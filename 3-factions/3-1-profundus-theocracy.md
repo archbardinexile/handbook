@@ -14,20 +14,6 @@ The Church of Caelum has remained the most influential and widespread religion i
 - **Heralds** are the Church's sacred groundskeepers. Their duties include tending to the Oratory's graveyards and gardens among other sacred sites. They also perform funeral rites.
 - **Acolytes** are made to take an oath before beginning their training to become clerics of the Church.
 
-### Become an Acolyte of Caelum
-
-1. Prove yourself to receive Caelum's divine power and receive the Exarch's summons.
-2. Take the oath to become an acolyte of Caelum.
-3. Fulfil your divine duties at your assigned territory: heal the wounded, pacify troublemakers, spread the word of Caelum.
-  - Attempt to sneak into the Oratory's vault in search of the truth behind Caelum's ascension.
-4. Receive the rank of Cleric and battle forces that would seek to destroy Caelum's influence.
-5. Accompany the Commission on an expedition to a new territory and help establish a Church presence. Construct a parish and become its chaplain.
-6. Exercise your new title to enter the Oratory's vault in search of the truth behind Caelum's ascension.
-  - Confront the Prefect about the revelation and depose the Church.
-  - Take the knowledge to the Cult of Tenebrae.
-  - Attempt to reveal the knowledge to the world.
-  - Keep the secret of Caelum's ascension for the sake of peace. Become an Inquisitor to hunt down those who would expose the secret.
-
 ### Notable Members
 
 #### Caelum Sol Orbis
@@ -37,22 +23,6 @@ The Church of Caelum has remained the most influential and widespread religion i
 | 64 AO | 0 AO | Radiant Soul Aasimar | Oathbreaker Paladin |
 
 Ascended to divinity.
-
-#### Prima Vita Sol Orbis
-
-Caelum's Daughter.
-
-#### Rex Sol Orbis
-
-Exarch who signed the Fundus Constitution (516 PO).
-
-#### Manus Sol Orbis
-
-Exarch during the moving of Ingenium (756 PO).
-
-#### Ardeat Sol Orbis
-
-Former Exarch, father of Aura, Spiro, Sana and Clara. Died 986 PO.
 
 #### Aura Sol Orbis
 
@@ -82,6 +52,13 @@ Grand Herald.
 
 Prefect of Micantrum.
 
+### Other Members
+
+- **Prima Vita Sol Orbis** Caelum's Daughter.
+- **Rex Sol Orbis** Exarch who signed the Fundus Constitution (516 PO).
+- **Manus Sol Orbis** Exarch during the moving of Ingenium (756 PO).
+- **Ardeat Sol Orbis** Former Exarch, father of Aura, Spiro, Sana and Clara. Died 986 PO.
+
 ---
 
 ## The Ministry
@@ -92,15 +69,6 @@ The Ministry is the primary governing body for Caelum's Landing and the Church's
 
 - The **Chairman** acts as mediator in the proceedings of government, functionally making them the head of the Ministry. Elected by fellow ministers and approved by the Exarch, the current chairman is Emil Hartmann.
 - A **Minister** is an elected representative of a province or territory allied with the Church. They attend debates in the Ministerial Houses.
-
-### Become a Minister
-1. Begin an election campaign to become the representative of your chosen province.
-2. Expand your influence.
-  - Earn the favour of the public by listening to their needs and voicing them in the Ministerial Houses.
-  - Discover opportunities to blackmail fellow ministers and encourage them to support your vote.
-3. Discover information about the extortion of the Mining Consortium.
-  - Raise your concern for the miners in session.
-  - Allow the extortion and receive a wealthy bribe.
 
 ### Notable Members
 
@@ -125,15 +93,6 @@ The Inland Guard act as the police for Caelum's Landing.
 - Inspector
 - Sergeant
 - Constable
-
-### Join the Inland Guard
-1. Apply for the position or receive an endorsement.
-2. Patrol the streets, protect citizens, fight crime and prejudice.
-3. Pursue and detain zipper pirates to uncover the location of stolen goods.
-4. Uncover a clandestine alchemist ring.
-  - Lead a raid of their hideout.
-  - Go undercover to expose the ringleader.
-5. Discover the source of the exotic ingredients and their purpose.
 
 ### Notable Members
 
