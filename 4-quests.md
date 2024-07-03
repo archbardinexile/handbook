@@ -68,77 +68,46 @@ Of all the games one might frequent in a local tavern, River serves as a common 
 
 ### Hands (Highest to Lowest)
 
-| Hand               | Description     | Chance |
-| ------------------ | --------------- | ------ |
-| Perfect Even River | 4, 6, 8, 10, 12 | 0.16%  |
-| Perfect Odd River  | 3, 5, 7, 9, 11  | 0.16%  |
-| Perfect Even Turn  | 6, 8, 10, 12    | 0.22%  |
-| Perfect Odd Turn   | 5, 7, 9, 11     | 0.22%  |
-| Perfect Even Flop  | 8, 10, 12       | 0.47%  |
-| Perfect Odd Flop   | 7, 9, 11        | 0.47%  |
-| Perfect Turn       | 6 to 9          | 0.83%  |
-| Perfect Flop       | 8 to 10         | 1.04%  |
-| Even River         | 2, 4, 6, 8, 10  | 1.41%  |
-| Odd River          | 1, 3, 5, 7, 9   | 1.41%  |
-| Perfect River      | 4 to 8          | 1.56%  |
-| High Flop          | 7 to 9          | 1.74%  |
-| High Even Turn     | 4, 6, 8, 10     | 1.95%  |
-| High Odd Turn      | 3, 5, 7, 9      | 1.95%  |
-| High Turn          | 5 to 8          | 2.15%  |
-| High Even Flop     | 6, 8, 10        | 2.69%  |
-| High Odd Flop      | 5, 7, 9         | 2.69%  |
-| Triple Sevens      | Three 7s        | 2.93%  |
-| Triple Eights      | Three 8s        | 2.93%  |
-| Double Nines       | Two 9s          | 3.36%  |
-| Double Tens        | Two 10s         | 3.36%  |
-| High River         | 3 to 7          | 3.66%  |
-| Flop               | 6 to 8          | 4.52%  |
-| Turn               | 4 to 7          | 5.04%  |
-| Quadruple Fives    | Four 5s         | 5.09%  |
-| Quadruple Sixes    | Four 6s         | 5.09%  |
-| Low Flop           | 5 to 7          | 6.96%  |
-| Even Turn          | 2, 4, 6, 8      | 7.70%  |
-| Odd Turn           | 1, 3, 5, 7      | 7.70%  |
-| High Eleven        | One 11          | 8.33%  |
-| High Twelve        | One 12          | 8.33%  |
-| River              | 2 to 6          | 8.60%  |
-| Double Sevens      | Two 7s          | 9.51%  |
-| Double Eights      | Two 8s          | 9.51%  |
-| Even Flop          | 4, 6, 8         | 10.62% |
-| Odd Flop           | 3, 5, 7         | 10.62% |
-| Triple Fives       | Three 5s        | 10.72% |
-| Triple Sixes       | Three 6s        | 10.72% |
-| Low Turn           | 3 to 6          | 11.86% |
-| Low River          | 1 to 5          | 13.12% |
-| Crooked Flop       | 4 to 6          | 16.36% |
-| Crooked Turn       | 2 to 5          | 18.10% |
-| High Nine          | One 9           | 18.33% |
-| High Ten           | One 10          | 18.33% |
-| Quintuple Ones     | Five 1s         | 20.03% |
-| Quintuple Twos     | Five 2s         | 20.03% |
-| Quintuple Threes   | Five 3s         | 20.03% |
-| Quintuple Fours    | Five 4s         | 20.03% |
-| Double Fives       | Two 5s          | 22.56% |
-| Double Sixes       | Two 6s          | 22.56% |
-| Dead Flop          | 3 to 5          | 24.97% |
-| Low Even Flop      | 2, 4, 6         | 24.97% |
-| Low Odd Flop       | 1, 3, 5         | 24.97% |
-| Quadruple Ones     | Four 1s         | 27.63% |
-| Quadruple Twos     | Four 2s         | 27.63% |
-| Quadruple Threes   | Four 3s         | 27.63% |
-| Quadruple Fours    | Four 4s         | 27.63% |
-| Dead Turn          | 1 to 4          | 27.63% |
-| High Seven         | One 7           | 30.83% |
-| High Eight         | One 8           | 30.83% |
-| Triple Ones        | Three 1s        | 38.11% |
-| Triple Twos        | Three 2s        | 38.11% |
-| Triple Threes      | Three 3s        | 38.11% |
-| Triple Fours       | Three 4s        | 38.11% |
-| Buried Flop        | 1 to 3          | 38.11% |
-| Buried Flop        | 2 to 4          | 38.11% |
-| High Five          | One 5           | 47.50% |
-| High Six           | One 6           | 47.50% |
-| Double Ones        | Two 1s          | 52.56% |
-| Double Twos        | Two 2s          | 52.56% |
-| Double Threes      | Two 3s          | 52.56% |
-| Double Fours       | Two 4s          | 52.56% |
+| Hand                   | Description                       | Chance |
+| ---------------------- | --------------------------------- | ------ |
+| Perfect Odd/Even River | 3, 5, 7, 9, 11 or 4, 6, 8, 10, 12 | 0.16%  |
+| Perfect Odd/Even Turn  | 5, 7, 9, 11 or 6, 8, 10, 12       | 0.22%  |
+| Perfect Odd/Even Flop  | 7, 9, 11 or 8, 10, 12             | 0.47%  |
+| Perfect Turn           | 6, 7, 8, 9                        | 0.83%  |
+| Perfect Flop           | 8, 9, 10                          | 1.04%  |
+| High Odd/Even River    | 1, 3, 5, 7, 9 or 2, 4, 6, 8, 10   | 1.41%  |
+| Perfect River          | 4, 5, 6, 7, 8                     | 1.56%  |
+| High Flop              | 7, 8, 9                           | 1.74%  |
+| High Odd/Even Turn     | 3, 5, 7, 9 or 4, 6, 8, 10         | 1.95%  |
+| High Turn              | 5, 6, 7, 8                        | 2.15%  |
+| High Odd/Even Flop     | 5, 7, 9 or 6, 8, 10               | 2.69%  |
+| Triple 7s/8s           | 7, 7, 7 or 8, 8, 8                | 2.93%  |
+| Double 9s/10s          | 9, 9 or 10, 10                    | 3.36%  |
+| High River             | 3, 4, 5, 6, 7                     | 3.66%  |
+| Ordinary Flop          | 6, 7, 8                           | 4.52%  |
+| Ordinary Turn          | 4, 5, 6, 7                        | 5.04%  |
+| Quadruple 5s/6s        | 5, 5, 5, 5 or 6, 6, 6, 6          | 5.09%  |
+| Low Flop               | 5, 6, 7                           | 6.96%  |
+| Odd/Even Turn          | 1, 3, 5, 7 or 2, 4, 6, 8          | 7.70%  |
+| High 11/12             | 11 or 12                          | 8.33%  |
+| River                  | 2, 3, 4, 5, 6                     | 8.60%  |
+| Double 7s/8s           | 7, 7 or 8, 8                      | 9.51%  |
+| Odd/Even Flop          | 3, 5, 7 or 4, 6, 8                | 10.62% |
+| Triple 5s/6s           | 5, 5, 5 or 6, 6, 6                | 10.72% |
+| Low Turn               | 3, 4, 5, 6                        | 11.86% |
+| Low River              | 1, 2, 3, 4, 5                     | 13.12% |
+| Flop 6                 | 4, 5, 6                           | 16.36% |
+| Turn 5                 | 2, 3, 4, 5                        | 18.10% |
+| High 9/10              | 9 or 10                           | 18.33% |
+| Quintuple 1s/2s/3s/4s  | 1, 1, 1, 1, 1 to 4, 4, 4, 4, 4    | 20.03% |
+| Double 5s/6s           | 5, 5 or 6, 6                      | 22.56% |
+| Flop 5                 | 3, 4, 5                           | 24.97% |
+| Low Odd/Even Flop      | 1, 3, 5 or 2, 4, 6                | 24.97% |
+| Quadruple 1s/2s/3s/4s  | 1, 1, 1, 1 to 4, 4, 4, 4          | 27.63% |
+| Turn 4                 | 1, 2, 3, 4                        | 27.63% |
+| High 7/8               | 7 or 8                            | 30.83% |
+| Triple 1s/2s/3s/4s     | 1, 1, 1 to 4, 4, 4                | 38.11% |
+| Flop 3                 | 1, 2, 3                           | 38.11% |
+| Flop 4                 | 2, 3, 4                           | 38.11% |
+| High 5/6               | 5 or 6                            | 47.50% |
+| Double 1s/2s/3s/4s     | 1, 1 to 4, 4                      | 52.56% |
