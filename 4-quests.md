@@ -101,13 +101,12 @@ Of all the games one might frequent in a local tavern, River serves as a common 
 | High 9/10              | 9 or 10                           | 18.33% |
 | Quintuple 1s/2s/3s/4s  | 1, 1, 1, 1, 1 to 4, 4, 4, 4, 4    | 20.03% |
 | Double 5s/6s           | 5, 5 or 6, 6                      | 22.56% |
-| Flop 5                 | 3, 4, 5                           | 24.97% |
 | Low Odd/Even Flop      | 1, 3, 5 or 2, 4, 6                | 24.97% |
+| Flop 5                 | 3, 4, 5                           | 24.97% |
 | Quadruple 1s/2s/3s/4s  | 1, 1, 1, 1 to 4, 4, 4, 4          | 27.63% |
 | Turn 4                 | 1, 2, 3, 4                        | 27.63% |
 | High 7/8               | 7 or 8                            | 30.83% |
 | Triple 1s/2s/3s/4s     | 1, 1, 1 to 4, 4, 4                | 38.11% |
-| Flop 3                 | 1, 2, 3                           | 38.11% |
-| Flop 4                 | 2, 3, 4                           | 38.11% |
+| Flop 3/4               | 1, 2, 3 or 2, 3, 4                | 38.11% |
 | High 5/6               | 5 or 6                            | 47.50% |
 | Double 1s/2s/3s/4s     | 1, 1 to 4, 4                      | 52.56% |
