@@ -14,6 +14,16 @@ Chief of the Commission.
 
 Member of the Commission, author of Barty's Guide to Caelum's Landing
 
+#### Hadley Pinchbrew
+
+Halfling alchemist and artificer
+
+#### Doom
+
+Tiefling barbarian
+
+####
+
 ---
 
 ## Order of the Lantern

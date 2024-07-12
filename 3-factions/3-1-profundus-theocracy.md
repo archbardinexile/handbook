@@ -18,37 +18,65 @@ The Church of Caelum has remained the most influential and widespread religion i
 
 #### Caelum Sol Orbis
 
-| Born  | Died | Race                 | Class               |
-| ----- | ---- | -------------------- | ------------------- |
-| 64 AO | 0 AO | Radiant Soul Aasimar | Oathbreaker Paladin |
+| Race                 | Class               | Title         |
+| -------------------- | ------------------- | ------------- |
+| Radiant Soul Aasimar | Oathbreaker Paladin | The Ascended  |
 
-Ascended to divinity.
+Born in 64 AO. Ascended to divinity 0 AO.
 
 #### Aura Sol Orbis
+
+| Race                 | Class               | Title         |
+| -------------------- | ------------------- | ------------- |
+| Radiant Soul Aasimar | Paladin             | Exarch        |
 
 Exarch, Prefect of Caelum's Landing.
 
 #### Spiro Sol Orbis
 
+| Race                 | Class               | Title         |
+| -------------------- | ------------------- | ------------- |
+| Radiant Soul Aasimar | Paladin             | Grand Paladin |
+
 Grand Paladin, Prefect of Ingenium.
 
 #### Sana Sol Orbis
+
+| Race                 | Class               | Title              |
+| -------------------- | ------------------- | ------------------ |
+| Radiant Soul Aasimar | Knowledge Cleric    | Prefect of Madanau |
 
 Prefect of Madanau.
 
 #### Clara Sol Orbis
 
+| Race                 | Class               | Title                        |
+| -------------------- | ------------------- | ---------------------------- |
+| Radiant Soul Aasimar | Trickster Cleric    | Prefect of Tenebrae's Refuge |
+
 Prefect of Tenebrae's Refuge, member of the Commission.
 
 #### Tristis Veritas
+
+| Race                 | Class               | Title            |
+| -------------------- | ------------------- | ---------------- |
+| Aasimar              | Sorcerer            | Grand Inquisitor |
 
 Grand Inquisitor.
 
 #### Patrocinor Mors
 
+| Race                 | Class               | Title         |
+| -------------------- | ------------------- | ------------- |
+| Human                | Grave Cleric        | Grand Herald  |
+
 Grand Herald.
 
 #### Luna Vigil
+
+| Race                 | Class               | Title                |
+| -------------------- | ------------------- | -------------------- |
+| Aasimar              | Paladin             | Prefect of Micantrum |
 
 Prefect of Micantrum.
 

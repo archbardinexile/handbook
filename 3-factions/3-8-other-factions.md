@@ -10,6 +10,12 @@ Governor of Micantrum.
 
 # Bounty Hunters Codex
 
+### Notable Members
+
+#### Vigor
+
+#### Gertrude "Gerti" Garnetgrinder
+
 ---
 
 ## Merchants Guild
