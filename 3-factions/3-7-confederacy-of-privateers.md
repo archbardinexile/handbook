@@ -1,11 +1,11 @@
-## Confederacy of Privateers
+# Confederacy of Privateers
 
 - Zippers
 - Sky Pirates
 - Sea Pirates
 
-### Notable Members
+## Notable Members
 
-#### Bhaldrom Anchorheart
+### Bhaldrom Anchorheart
 
 Seafaring mercenary in service to Umberlee.

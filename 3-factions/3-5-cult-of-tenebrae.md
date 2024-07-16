@@ -1,7 +1,7 @@
-## The Cult of Tenebrae
+# The Cult of Tenebrae
 
-### Notable Members
+## Notable Members
 
-#### Tenebrae
+### Tenebrae
 
 Ancient earth genasi in hiding.

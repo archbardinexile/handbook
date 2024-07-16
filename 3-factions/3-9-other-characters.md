@@ -1,23 +1,23 @@
 # Other Characters
 
-#### Nox
+### Nox
 
 Silver dragon of Nox.
 
-#### Vasilissa
+### Vasilissa
 
 Queen of Mallia.
 
-#### Anselm Chlodovech
+### Anselm Chlodovech
 
 Signed the Fundus Constitution (516 PO)
 
-#### Neira
+### Neira
 
-#### Meizilde
+### Meizilde
 
-#### Cylaros
+### Cylaros
 
-#### Lothran
+### Lothran
 
-#### Agnes Briar-Colton
+### Agnes Briar-Colton

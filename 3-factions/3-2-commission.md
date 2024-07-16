@@ -1,35 +1,36 @@
-## The Commission
+# The Commission
 
-### Notable Members
+## Notable Members
 
-#### Glimback Toestubber
+### Glimback Toestubber
 
 Founder of the Commission.
 
-#### Adelaide Burkhart
+### Adelaide Burkhart
 
-Chief of the Commission.
+Human chief of the Commission.
 
-#### Bartholomeus Fairchild
+### Bartholomeus Fairchild
 
-Member of the Commission, author of Barty's Guide to Caelum's Landing
+Human member of the Commission, author of Barty's Guide to Caelum's Landing
 
-#### Hadley Pinchbrew
+### Hadley Pinchbrew
 
-Halfling alchemist and artificer
+Halfling artificer and alchemist
 
-#### Doom
+### Doom
 
-Tiefling barbarian
+Tiefling wild magic barbarian
 
-####
+###
 
+Heavily-armoured halfling portent wizard and arcane archer
 ---
 
-## Order of the Lantern
+# Order of the Lantern
 
-### Notable Members
+## Notable Members
 
-#### Lathraia
+### Lathraia
 
-Former Mallian spy, member of the Order of the Lantern, liaison to the Commission
+Humanoid Yuan-Ti. Former Mallian spy, member of the Order of the Lantern, liaison to the Commission.

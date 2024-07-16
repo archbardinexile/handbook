@@ -1,8 +1,8 @@
-## Mining Consortium
+# Mining Consortium
 
-### Notable Members
+## Notable Members
 
-#### Havat Eilistre
+### Havat Eilistre
 
 Governor of Micantrum.
 
@@ -10,22 +10,22 @@ Governor of Micantrum.
 
 # Bounty Hunters Codex
 
-### Notable Members
+## Notable Members
 
-#### Vigor
+### Vigor
 
-#### Gertrude "Gerti" Garnetgrinder
+### Gertrude "Gerti" Garnetgrinder
 
 ---
 
-## Merchants Guild
+# Merchants Guild
 
-### Notable Members
+## Notable Members
 
-#### Hashim Al-Hashim
+### Hashim Al-Hashim
 
 Governor of Arx
 
-#### Majdi
+### Majdi
 
 Portly elf merchant drunken master travels in airship caravan

@@ -1,7 +1,7 @@
 # Spirit Temple
 
-### Notable Members
+## Notable Members
 
-#### Baihu
+### Baihu
 
 Master Monk of the Spirit Temple.
