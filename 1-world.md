@@ -28,20 +28,20 @@ Perhaps chief among the nascent technologies developed since the Rising is the r
 
 There are 12 months in one year. Each month is 24 days long, divided into four six-day weeks. The days are named: *Menoday*, *Skewday*, *Winday*, *Mariday*, *Sterday* and *Sunday*. A year is divided into four seasons according to the climate. Due to the way the world of Fio rotates on all three of its axes, the summer and winter solstices only occur once every four years. A period of four years is known as a *fewyear*.
 
-| Month         | Season | Holidays                     |
-| ------------- | ------ | ---------------------------- |
-| Adventus      | Summer | Summer Solstice (1st year)   |
-| Viridis       | Summer |                              |
-| Vale          | Summer |                              |
-| Perventum     | Autumn | Arrows Day (17th)            |
-| Rubrum        | Autumn |                              |
-| Habeo         | Autumn | Harvest Festival (12th-18th) |
-| Tabernacula   | Winter | Winter Solstice (3rd year)   |
-| Niveus        | Winter | First Life (4th)             |
-| Roscidas      | Winter |                              |
-| Inceptum      | Spring | Guilds Exhibition (12th)     |
-| Flavum        | Spring |                              |
-| Ascendentem   | Spring | Caelum's Day (24th)          |
+| Month         | Season | Holidays                      |
+| ------------- | ------ | ----------------------------- |
+| Adventus      | Summer | Summer Solstice (1st year)    |
+| Viridis       | Summer | Aura's Birthday (14th)        |
+| Vale          | Summer |                               |
+| Perventum     | Autumn | Arrows Day (17th)             |
+| Rubrum        | Autumn |                               |
+| Habeo         | Autumn | Harvest Festival (12th-18th)  |
+| Tabernacula   | Winter | Winter Solstice (3rd year)    |
+| Niveus        | Winter | First Life (4th)              |
+| Roscidas      | Winter |                               |
+| Inceptum      | Spring | Guilds Exhibition (12th)      |
+| Flavum        | Spring | Coronation Anniversary (11th) |
+| Ascendentem   | Spring | Caelum's Day (24th)           |
 
 ## Exploring Uncharted Territories
 

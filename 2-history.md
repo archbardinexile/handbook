@@ -34,6 +34,10 @@ The sprawling brass metropolis of [Ingenium](1-world/1-1-profundus.md#the-innerm
 
 The [Commission](3-factions/3-2-commission.md) for the Research of Offshore Worlds, affectionately called the *Crows* or simply the Commission, was founded by [Glimback Toestubber](3-factions/3-2-commission.md#glimback-toestubber) in 899 PO. Originally known as the *Explorer's Guild*, the Crows secured government funding in 923 PO when approached by [Ardeat Sol Orbis](3-factions/3-1-profundus-theocracy.md#other-members) to begin prospecting new earthmotes for colonisation. Though in the employ of the government, the Crows continue to work independently, conducting research into the Miasma and the curious beasts that reside within.
 
+### Birth of Aura Sol Orbis - *964 PO*
+
+[Aura Sol Orbis](3-factions/3-1-profundus-theocracy.md#aura-sol-orbis) was born on the 14th day of Viridis in the Oratory on Caelum's Landing. As the first of Ardeat Sol Orbis' four children, much of her upbringing was focused on preparing her for the day she would inevitably take over as Exarch. Though she shared a close relationship with her father, her politics would grow apart from his as she watched him perpetuate the Medusae Wars and the Church's expansionist practices.
+
 ### The Medusae Wars - *976-983 PO*
 
 In the year 976 PO, the gargantuan jungle earthmote, known to its inhabitants as [Mallia](1-world/1-3-contritus.md#mallia), erupted from the seas erde-south-east of Fundus. The Church sent an expeditionary force to Mallia to ascertain its eligibility for colonization. The expedition was met by a tribe of "Reptilian people with snakes for hair." These were Medusae, the warriors of the Mallian queen, [Vasilissa](3-factions/3-9-other-characters.md#vasilissa), capable of turning those who meet their gaze to stone. The expedition was quickly routed, but despite this, further expeditions into the queen's territory succeeded in establishing trade routes with the estranged peoples of Mallia. The queen took exception to this and war quickly broke out.
@@ -43,6 +47,10 @@ Missionaries from the Church were sent to Mallia to improve relations with the M
 ### Arrows Day - *983 PO*
 
 On the 17th of Perventum 983 PO, a final decisive battle was fought in the skies south-east of Caelum's Landing. The Church's fleet of gliders engaged invading squid-like aircraft from Mallia. The Mallian queen intended to eradicate Caelum worship in one fell swoop, but her forces were routed by the Church's superior firepower. Many wrecks of Church gliders and Mallian flagellates can be found on the seabed beneath where the battle took place. Every year, Caelum's Landing celebrates Arrows Day on the 17th of Perventum. Kites are flown throughout the city to commemorate those who lost their lives in the battle, and in appreciation of the peace they helped to create.
+
+### Aura Becomes Exarch - *986 PO*
+
+Following the natural death of her father, Ardeat Sol Orbis, Aura Sol Orbis was heralded as the new Exarch in a grand coronation on the 11th day of Flavum. Accepting her crown, Aura took her chosen oath of redemption as a paladin of the Church, swearing to right the wrongs of the Medusae Wars and help those affected reintegrate into society. She would go on to declare her brother, [Spiro Sol Orbis](3-factions/3-1-profundus-theocracy.md#spiro-sol-orbis), Grand Paladin, and her sisters, [Sana Sol Orbis](3-factions/3-1-profundus-theocracy.md#sana-sol-orbis) and [Clara Sol Orbis](3-factions/3-1-profundus-theocracy.md#clara-sol-orbis), Prefects of [Tenebrae's Refuge](1-world/1-1-profundus.md#the-innermotes) and [Madanau](1-world/1-1-profundus.md#the-outermotes) respectively.
 
 ### Hell over Madanau - *996 PO*
 
